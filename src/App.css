@@ -1,0 +1,12 @@
+.outerbox>.nav-container .nav-link{
+  margin: 70px;
+  color: #fff;
+  padding: 5px;
+  padding-left: 15px;
+  font-size: 30px;
+  font-weight: lighter;
+  text-align: left;
+  border-left: 1px solid #fff;
+  font-family: Exo\ 2,sans-serif;
+  font-family: Cinzel,serif;
+}
